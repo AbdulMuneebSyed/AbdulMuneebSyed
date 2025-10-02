@@ -19,7 +19,7 @@
 
 ### Total visited
 
-![Visitor Count](![Views](https://viewcounter.live/AbdulMuneebSyed?digits=4&bg_color=000000&text_color=FFFFFF))
+![Views](https://viewcounter.live/AbdulMuneebSyed?digits=4&bg_color=000000&text_color=FFFFFF)
 
 
 ### 💻 Technology
