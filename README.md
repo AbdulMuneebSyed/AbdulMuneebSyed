@@ -11,7 +11,7 @@
 
 
 **I love building full-stack products**
-🚀 **Full Stack Developer** | Tech Lead @ E-Cell MJCET | Former Dev @ Capco | GfG #1 Ranker  
+🚀 **Full Stack Developer** | SDE intern @ MathonGo | ex-Tech Lead @ E-Cell MJCET | Former Dev @ Capco | GfG #1 Ranker  
 📱 React Native & Expo Dev | Passionate about Open Source | Blockchain & AI Enthusiast
 
 
@@ -19,7 +19,7 @@
 
 ### Total visited
 
-![Visitor Count](https://profile-counter.glitch.me/abdulmuneebsyed/count.svg)
+![Visitor Count](![Views](https://viewcounter.live/AbdulMuneebSyed?digits=4&bg_color=000000&text_color=FFFFFF))
 
 
 ### 💻 Technology
