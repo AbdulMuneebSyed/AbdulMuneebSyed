@@ -11,7 +11,7 @@
 
 
 **I love building full-stack products**
-🚀 **Full Stack Developer** | SDE intern @ MathonGo | ex-Tech Lead @ E-Cell MJCET | Former Dev @ Capco | GfG #1 Ranker  
+🚀 **Full Stack Developer** | SDE PulseGen |ex-SDE intern @ MathonGo | ex-Tech Lead @ E-Cell MJCET | Former Dev @ Capco | GfG #1 Ranker  
 📱 React Native & Expo Dev | Passionate about Open Source | Blockchain & AI Enthusiast
 
 
